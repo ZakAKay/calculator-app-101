@@ -1,0 +1,20 @@
+body {
+  /* display: grid; 
+  grid-template-areas:
+  "first-Number"
+  "second-Number"
+  "add"
+  "subtract"
+  "multiply"
+  "divide"
+  "modulus";*/
+  text-align: center;
+  margin: 20% auto;
+  width: 50%;
+  height: 75%;
+  background-color: olivedrab;
+  
+}
+h1 {
+  font-size: 60px;
+}
